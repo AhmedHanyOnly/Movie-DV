@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-DV/static/css/main.f91a0b00.css",
+    "main.js": "/Movie-DV/static/js/main.3c8fcee6.js",
+    "index.html": "/Movie-DV/index.html",
+    "main.f91a0b00.css.map": "/Movie-DV/static/css/main.f91a0b00.css.map",
+    "main.3c8fcee6.js.map": "/Movie-DV/static/js/main.3c8fcee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91a0b00.css",
+    "static/js/main.3c8fcee6.js"
+  ]
+}
